@@ -92,4 +92,4 @@ Descrição dos endpoints de Material
 
 # EXEMPLOS DE JSON
 
-Para este arquivo não ser muito extenso optamos por manter os exemplos de JSON dentro do arquivo INSOMNIA.
+Para este arquivo não ser muito extenso optamos por manter os exemplos de JSON dentro do arquivo INSOMNIA que pode ser encontrado dentro da pasta "documentacao" do projeto.
