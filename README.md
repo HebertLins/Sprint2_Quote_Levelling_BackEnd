@@ -2,8 +2,6 @@
 Repositório para as entregas da Sprint 2 da Challenge - Disciplinas Enterprise Application Development &amp; Digital Business Enablement
 
 
-# Sprint-2-JAVA
-
 Nome da Aplicação: Quote Levelling
 
 
