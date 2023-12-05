@@ -28,7 +28,7 @@ Vale lembrar que existem validações em nosso sistema, por exemplo em "tipo_emp
 
 # DIAGRAMA DE CLASSES
 
-![DiagramaClasses](https://github.com/HebertLins/Sprint-1-JAVA/assets/111543334/d88861f1-ae62-422e-b37c-13701377550c)
+![DiagramaClasse drawio](https://github.com/HebertLins/Sprint2_Quote_Levelling_BackEnd/assets/111543334/8b6d59d8-43ad-4543-acdd-fa404e7a06d6)
 
 
 # DER
