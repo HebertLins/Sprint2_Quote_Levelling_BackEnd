@@ -36,12 +36,12 @@ Vale lembrar que existem validações em nosso sistema, por exemplo em "tipo_emp
 ![DER](https://github.com/HebertLins/Sprint-1-JAVA/assets/111543334/ee7e01aa-d829-4410-866a-5633f3a88832)
 
 
-
 # PITCH
 
 https://youtu.be/Q22Nc1Y658I
 
-Descrição dos endpoints de Cotação
+
+# Descrição dos endpoints de Cotação
 
 - 'GET'     /cotacao: lista todas as cortações do sistema
 - 'GET'     /cotacao/{id}: lista uma cortaçãp por ID especifico
