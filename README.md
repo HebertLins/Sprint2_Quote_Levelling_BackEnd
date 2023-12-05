@@ -18,6 +18,8 @@ GUIA PARA RODAR A APLICAÇÃO:
 4 - Após a aplicação ter subido, realize os testes das requisições a partir do script do Insomnia. Recomendável seguir a ordem das seguintes Entidades quando for realizar suas requisições:
 Endereco -> Cliente/Fornecedor -> Material/Responsavel -> Cotacao;
 
+Vale lembrar que existem validações em nosso sistema, por exemplo em "tipo_empresa", onde só aceita determinados valores.
+
 5 - Deve-se tomar cuidado com os IDs das Entidades quando for realizar requisições que necessitam de um em sua URL. Se atentando para utilizar um já criado;
 
 
