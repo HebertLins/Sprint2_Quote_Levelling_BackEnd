@@ -31,7 +31,7 @@ Endereco -> Cliente/Fornecedor -> Material/Responsavel -> Cotacao;
 
 # DER
 
-![DER]![DER](https://github.com/HebertLins/Sprint-1-JAVA/assets/111543334/ee7e01aa-d829-4410-866a-5633f3a88832)
+![DER](https://github.com/HebertLins/Sprint-1-JAVA/assets/111543334/ee7e01aa-d829-4410-866a-5633f3a88832)
 
 
 
