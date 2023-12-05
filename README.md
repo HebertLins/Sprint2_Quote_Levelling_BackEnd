@@ -42,7 +42,9 @@ Vale lembrar que existem validações em nosso sistema, por exemplo em "tipo_emp
 https://youtu.be/Q22Nc1Y658I
 
 
-# Descrição dos endpoints de Cotação
+# Descrição dos endpoints
+
+Cotação
 
 - 'GET'     /cotacao: lista todas as cortações do sistema
 - 'GET'     /cotacao/{id}: lista uma cortaçãp por ID especifico
@@ -50,7 +52,7 @@ https://youtu.be/Q22Nc1Y658I
 - 'PUT'     /cotacao/{id}: alterar dados de uma cotação
 - 'DELETE'  /cotacao/{id}: deletar uma cotação específica do sistema
 
-Descrição dos endpoints de Responsavel
+Responsavel
 
 - 'GET'     /responsavel: lista todos os responsáveis do sistema
 - 'GET'     /responsavel/{id}: lista um responsavel por ID especifico
@@ -58,7 +60,7 @@ Descrição dos endpoints de Responsavel
 - 'PUT'     /responsavel/{id}: alterar dados de um responsavel
 - 'DELETE'  /responsavel/{id}: deletar um responsavel específico do sistema
 
-Descrição dos endpoints de Endereco
+Endereco
 
 - 'GET'     /endereco: lista todos os endereços do sistema
 - 'GET'     /endereco/{id}: lista um endereço por ID especifico
@@ -66,7 +68,7 @@ Descrição dos endpoints de Endereco
 - 'PUT'     /endereco/{id}: alterar dados de um endereço
 - 'DELETE'  /endereco/{id}: deletar um endereço específico do sistema
 
-Descrição dos endpoints de Fornecedor
+Fornecedor
 
 - 'GET'     /fornecedor: lista todos os fornecedores do sistema
 - 'GET'     /fornecedor/{id}: lista um fornecedor por ID especifico
@@ -74,7 +76,7 @@ Descrição dos endpoints de Fornecedor
 - 'PUT'     /fornecedor/{id}: alterar dados de um fornecedor
 - 'DELETE'  /fornecedor/{id}: deletar um fornecedor específico do sistema
 
-Descrição dos endpoints de Cliente
+Cliente
 
 - 'GET'     /cliente: lista todos os clientes do sistema
 - 'GET'     /cliente/{id}: lista um cliente por ID especifico
@@ -82,7 +84,7 @@ Descrição dos endpoints de Cliente
 - 'PUT'     /cliente/{id}: alterar dados de um cliente
 - 'DELETE'  /cliente/{id}: deletar um cliente específico do sistema
 
-Descrição dos endpoints de Material
+Material
 
 - 'GET'     /material: lista todos os materiais do sistema
 - 'GET'     /material/{id}: lista um material por ID especifico
