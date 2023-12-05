@@ -88,3 +88,7 @@ Descrição dos endpoints de Material
 - 'POST'    /material: cadastro de material
 - 'PUT'     /material/{id}: alterar dados de um material
 - 'DELETE'  /material/{id}: deletar um material específico do sistema
+
+# EXEMPLOS DE JSON
+
+Para este arquivo não ser muito extenso optamos por manter os exemplos de JSON dentro do arquivo INSOMNIA.
